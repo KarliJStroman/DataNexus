@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/DataNexus/static/css/main.e6b366f8.css",
-    "main.js": "/DataNexus/static/js/main.e632424f.js",
-    "static/js/453.a3dbdc6c.chunk.js": "/DataNexus/static/js/453.a3dbdc6c.chunk.js",
-    "static/media/gator.jpg": "/DataNexus/static/media/gator.d434773bbc81f21ef854.jpg",
-    "index.html": "/DataNexus/index.html",
-    "main.e6b366f8.css.map": "/DataNexus/static/css/main.e6b366f8.css.map",
-    "main.e632424f.js.map": "/DataNexus/static/js/main.e632424f.js.map",
-    "453.a3dbdc6c.chunk.js.map": "/DataNexus/static/js/453.a3dbdc6c.chunk.js.map"
+    "main.css": "/static/css/main.e6b366f8.css",
+    "main.js": "/static/js/main.52f0a4c1.js",
+    "static/js/453.a3dbdc6c.chunk.js": "/static/js/453.a3dbdc6c.chunk.js",
+    "static/media/gator.jpg": "/static/media/gator.d434773bbc81f21ef854.jpg",
+    "index.html": "/index.html",
+    "main.e6b366f8.css.map": "/static/css/main.e6b366f8.css.map",
+    "main.52f0a4c1.js.map": "/static/js/main.52f0a4c1.js.map",
+    "453.a3dbdc6c.chunk.js.map": "/static/js/453.a3dbdc6c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6b366f8.css",
-    "static/js/main.e632424f.js"
+    "static/js/main.52f0a4c1.js"
   ]
 }
